@@ -1,4 +1,4 @@
-# hierarchical-checkbox
+# checkboxTree-vue
 
 ## Project setup
 ```
